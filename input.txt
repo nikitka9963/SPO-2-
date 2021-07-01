@@ -1,0 +1,16 @@
+var a : integer 
+begin 
+If ( a = b ) Then 
+begin 
+If ( d = c ) 
+Then 
+begin 
+a := 1 
+b := 1 + a 
+end 
+end 
+Else 
+begin 
+g := 2 
+end 
+end
